@@ -1,0 +1,17 @@
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\bin\Debug\net6.0\Businesslayer.deps.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\bin\Debug\net6.0\Businesslayer.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\bin\Debug\net6.0\Businesslayer.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\bin\Debug\net6.0\Interfaces.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\bin\Debug\net6.0\LoginDAL.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\bin\Debug\net6.0\Interfaces.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\bin\Debug\net6.0\LoginDAL.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.csproj.AssemblyReference.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.AssemblyInfoInputs.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.AssemblyInfo.cs
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.csproj.CoreCompileInputs.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.csproj.CopyComplete
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\refint\Businesslayer.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\Businesslayer.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Businesslayer\obj\Debug\net6.0\ref\Businesslayer.dll

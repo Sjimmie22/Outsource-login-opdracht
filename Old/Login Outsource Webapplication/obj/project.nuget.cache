@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9b1TgcYDTCcrmCjiD23BigWuCmCkebThqXeqVLAbLnNVDJ3ellBfzP2RJqOUoPRKPAw/NDM0TFxDmWBio5Shg==",
+  "success": false,
+  "projectFilePath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Login Outsource Webapplication\\Login Outsource Webapplication.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\Businesslayer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\Businesslayer.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

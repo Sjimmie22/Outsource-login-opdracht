@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Login Outsource project\\Login Outsource project.csproj": {}
+  },
+  "projects": {
+    "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\Businesslayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\Businesslayer.csproj",
+        "projectName": "Businesslayer",
+        "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\Businesslayer.csproj",
+        "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
+        "outputPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\Interfaces.csproj"
+              },
+              "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\LoginDAL\\LoginDAL.csproj": {
+                "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\LoginDAL\\LoginDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
+        "outputPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Login Outsource project\\Login Outsource project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Login Outsource project\\Login Outsource project.csproj",
+        "projectName": "Login Outsource project",
+        "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Login Outsource project\\Login Outsource project.csproj",
+        "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
+        "outputPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Login Outsource project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\Businesslayer.csproj": {
+                "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Businesslayer\\Businesslayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\LoginDAL\\LoginDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\LoginDAL\\LoginDAL.csproj",
+        "projectName": "LoginDAL",
+        "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\LoginDAL\\LoginDAL.csproj",
+        "packagesPath": "C:\\Users\\Jimmy\\.nuget\\packages\\",
+        "outputPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\LoginDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\HBO ICT\\Semester 2\\Proftaak\\Code\\Outsource\\outsource-login-project\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

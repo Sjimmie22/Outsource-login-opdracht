@@ -1,0 +1,45 @@
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\appsettings.Development.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\appsettings.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Login Outsource project.staticwebassets.runtime.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Login Outsource project.exe
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Login Outsource project.deps.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Login Outsource project.runtimeconfig.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Login Outsource project.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Login Outsource project.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.csproj.AssemblyReference.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.GeneratedMSBuildEditorConfig.editorconfig
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.AssemblyInfoInputs.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.AssemblyInfo.cs
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.csproj.CoreCompileInputs.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.MvcApplicationPartsAssemblyInfo.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.RazorAssemblyInfo.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.RazorAssemblyInfo.cs
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\staticwebassets\msbuild.Login Outsource project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\staticwebassets\msbuild.build.Login Outsource project.props
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Login Outsource project.props
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Login Outsource project.props
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\staticwebassets.build.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\staticwebassets.development.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\scopedcss\bundle\Login Outsource project.styles.css
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\scopedcss\projectbundle\Login Outsource project.bundle.scp.css
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\refint\Login Outsource project.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.genruntimeconfig.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\ref\Login Outsource project.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Dapper.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Businesslayer.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Interfaces.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\LoginDAL.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Businesslayer.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\Interfaces.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\bin\Debug\net6.0\LoginDAL.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\Login Outsource project\obj\Debug\net6.0\Login Outsource project.csproj.CopyComplete

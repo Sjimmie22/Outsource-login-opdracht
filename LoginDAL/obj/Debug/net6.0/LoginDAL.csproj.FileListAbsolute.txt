@@ -1,0 +1,15 @@
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\bin\Debug\net6.0\LoginDAL.deps.json
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\bin\Debug\net6.0\LoginDAL.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\bin\Debug\net6.0\LoginDAL.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\bin\Debug\net6.0\Interfaces.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\bin\Debug\net6.0\Interfaces.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.csproj.AssemblyReference.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.AssemblyInfoInputs.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.AssemblyInfo.cs
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.csproj.CoreCompileInputs.cache
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.csproj.CopyComplete
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\refint\LoginDAL.dll
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\LoginDAL.pdb
+D:\HBO ICT\Semester 2\Proftaak\Code\Outsource\outsource-login-project\LoginDAL\obj\Debug\net6.0\ref\LoginDAL.dll
